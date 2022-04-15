@@ -21,14 +21,14 @@ spec:
         - name: PORT
           value: "8080"
         - name: ProxySite
-          value: "vumoo.to"
+          value: "google.com"
         - name: Vless_UUID
-          value: "51bfb719-debc-49ae-9f4d-2e333a34fa84"
+          value: "9527"
         - name: Vless_Path
-          value: "/s236"
+          value: "/9527-vless"
         - name: Vmess_UUID
-          value: "51bfb719-debc-49ae-9f4d-2e333a34fa84"
+          value: "9527"
         - name: Vmess_Path
-          value: "/s248"
+          value: "/9527-vmess"
         - name: Share_Path
-          value: "/share236"
+          value: "/t"
